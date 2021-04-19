@@ -104,7 +104,7 @@ namespace WebAPI
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Swagger");
             });
-            //23.10 dersteyiz
+            
         }
     }
 }
